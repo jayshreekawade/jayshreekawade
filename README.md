@@ -55,19 +55,11 @@
 ✔ Interactive dashboard with real-time insights  
 ✔ Data cleaning & transformation  
 ✔ Population, Pollution & Energy analysis  
-🛠 Power BI • Excel • SQL  
+🛠 Power BI • Excel • SQL   
 
 ---
 
-### 🧩 Blockchain-Based 3D NFT Marketplace (Ongoing)
-✔ Decentralized NFT marketplace  
-✔ Smart contract integration  
-✔ Secure transactions & royalty system  
-🛠 Next.js • TypeScript • Tailwind • Wagmi • Foundry  
-
----
-
-### 🧩 Blockchain-Based 3D NFT Marketplace (Ongoing)
+### 🧩 Blockchain-Based 3D NFT Marketplace 
 - Developed decentralized marketplace for 3D NFTs
 - Implemented secure smart contracts for ownership transfer
 - Used: Next.js 15, TypeScript, Tailwind CSS, Foundry, Wagmi, Pinata IPFS
